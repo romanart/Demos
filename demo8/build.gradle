@@ -1,0 +1,22 @@
+plugins {
+    id 'kotlin2js' version '1.2.51'
+}
+
+group 'KUG'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'kotlin-dce-js'
+
+repositories {
+    mavenCentral()
+}
+
+compileKotlin2Js {
+    kotlinOptions.moduleKind = "commonjs"
+    kotlinOptions.sourceMap = true
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-js"
+    testCompile "org.jetbrains.kotlin:kotlin-test-js"
+}

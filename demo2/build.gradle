@@ -1,0 +1,29 @@
+plugins {
+    id 'kotlin2js' version '1.2.60'
+}
+
+group 'KUG'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+compileKotlin2Js {
+    kotlinOptions.outputFile = "${projectDir}/web/output.js"
+    kotlinOptions.moduleKind = "commonjs"
+    kotlinOptions.sourceMap = true
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-js"
+    testCompile "org.jetbrains.kotlin:kotlin-test-js"
+}
+
+task copyJS(type: Copy) {
+    from "${projectDir}/src/main/js/module.js"
+    into "${projectDir}/web/"
+
+}
+
+compileKotlin2Js.dependsOn += copyJS

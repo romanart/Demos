@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frontend-only.iml" filepath="$PROJECT_DIR$/frontend-only.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend-only_main.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend-only_main.iml" group="frontend-only" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend-only_test.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend-only_test.iml" group="frontend-only" />
+    </modules>
+  </component>
+</project>
