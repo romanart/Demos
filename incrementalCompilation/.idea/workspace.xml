@@ -1,10 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5518fa58-3ffd-464d-a557-e104f65669bb" name="Default Changelist" comment="" />
+    <list default="true" id="5518fa58-3ffd-464d-a557-e104f65669bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../gradbageGen/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradbageGen/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa0.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa100.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa28.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa30.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa31.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa33.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa34.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa37.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa38.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa39.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa40.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa41.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa42.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa43.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa44.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa45.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa46.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa47.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa48.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa49.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa50.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa51.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa52.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa53.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa54.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa55.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa56.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa57.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa58.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa59.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa60.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa61.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa62.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa63.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa64.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa65.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa66.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa67.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa68.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa69.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa70.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa71.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa72.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa73.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa74.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa75.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa76.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa77.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa78.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa79.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa80.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa81.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa82.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa83.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa84.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa85.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa86.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa87.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa88.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa89.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa90.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa91.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa92.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa93.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa94.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa95.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa96.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa97.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa98.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/foofaa99.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/incrementalCompilation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/incrementalCompilation_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="node_modules/kotlin/kotlin/jquery/ui/ui.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/jquery/jquery.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/annotation/annotation.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/browser/browser.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/collections/collections.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/comparisons/comparisons.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/coroutines/experimental/intrinsics/intrinsics.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/coroutines/experimental/experimental.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/dom/dom.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/experimental/experimental.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/internal/contracts/contracts.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/internal/internal.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/io/io.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/js/js.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/jvm/jvm.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/math/math.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/properties/properties.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/ranges/ranges.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/reflect/js/internal/internal.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/reflect/reflect.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/sequences/sequences.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/text/text.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/kotlin/kotlin.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/khronos/webgl/webgl.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/css/css.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/events/events.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/parsing/parsing.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/svg/svg.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/url/url.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/dom/dom.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/fetch/fetch.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/files/files.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/notifications/notifications.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/performance/performance.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/workers/workers.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/org/w3c/xhr/xhr.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin/root-package.kjsm" />
+    <ignored path="node_modules/kotlin/kotlin.js" />
+    <ignored path="node_modules/kotlin/kotlin.js.map" />
+    <ignored path="node_modules/kotlin/kotlin.meta.js" />
+    <ignored path="node_modules/kotlin/package.json" />
+    <ignored path="node_modules/kotlin/README.md" />
+    <ignored path="web/output/file1/file1.kjsm" />
+    <ignored path="web/output/file2/file2.kjsm" />
+    <ignored path="web/output/file3/file3.kjsm" />
+    <ignored path="web/output/file4/file4.kjsm" />
+    <ignored path="web/output/file5/file5.kjsm" />
+    <ignored path="web/output/main/main.kjsm" />
+    <ignored path="web/output.js" />
+    <ignored path="web/output.js.map" />
+    <ignored path="web/output.meta.js" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,42 +218,44 @@
     <session id="851394105">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="2" />
-          <entry key="js" value="2" />
-          <entry key="kt" value="6" />
+          <entry key="gradle" value="3" />
+          <entry key="js" value="8" />
+          <entry key="kt" value="9" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="2" />
-          <entry key="JavaScript" value="2" />
-          <entry key="Kotlin" value="6" />
+          <entry key="Groovy" value="3" />
+          <entry key="JavaScript" value="8" />
+          <entry key="Kotlin" value="9" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="19" />
-          <entry key="kt" value="240" />
-          <entry key="properties" value="18" />
-          <entry key="txt" value="21" />
+          <entry key="gradle" value="77" />
+          <entry key="kt" value="260" />
+          <entry key="properties" value="24" />
+          <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="19" />
-          <entry key="Kotlin" value="240" />
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Properties" value="18" />
+          <entry key="Groovy" value="77" />
+          <entry key="Kotlin" value="260" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Properties" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -84,58 +264,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/file1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/file2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/file3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/file4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/file5.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <element signature="e#14#103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="174">
+              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa65.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa100.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-112">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa49.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -143,15 +298,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="21" />
+            <state relative-caret-position="280">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -162,6 +330,11 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>defineModule</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -366,10 +539,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7674420213000" />
+        <entry key="$PROJECT_DIR$" value="7674950457000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2612961648" />
-        <entry key="$PROJECT_DIR$/gradle.properties" value="2525878111" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="949482897" />
+        <entry key="$PROJECT_DIR$/gradle.properties" value="1768510980" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4190467290" />
       </map>
@@ -517,13 +690,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/src/main/kotlin/file1.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/file3.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/file4.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/file5.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/file2.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/foofaa100.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/foofaa49.kt" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
@@ -550,8 +725,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -568,43 +741,46 @@
               <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
               <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
               <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules_imported" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules_imported" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
               <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
               <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="incrementalCompilation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incrementalCompilation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -623,7 +799,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.incrementalCompilation [build]">
+  <component name="RunManager" selected="Gradle.incrementalCompilation [clean build]">
     <configuration name="incrementalCompilation [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -635,6 +811,25 @@
         </option>
         <option name="taskNames">
           <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="incrementalCompilation [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
             <option value="build" />
           </list>
         </option>
@@ -660,12 +855,24 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
+    <configuration name="incrementalCompilation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="build/classes/kotlin/main/incrementalCompilation.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="" />
+      </envs>
+      <method v="2">
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="build" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Gradle.incrementalCompilation [build]" />
       <item itemvalue="Gradle.incrementalCompilation [clean]" />
+      <item itemvalue="Gradle.incrementalCompilation [clean build]" />
+      <item itemvalue="Node.js.incrementalCompilation.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.incrementalCompilation.js" />
+        <item itemvalue="Gradle.incrementalCompilation [clean build]" />
         <item itemvalue="Gradle.incrementalCompilation [clean]" />
         <item itemvalue="Gradle.incrementalCompilation [build]" />
       </list>
@@ -682,30 +889,33 @@
       <option name="presentableId" value="Default" />
       <updated>1534880314690</updated>
       <workItem from="1534880318123" duration="6212000" />
-      <workItem from="1534893275528" duration="1256000" />
+      <workItem from="1534893275528" duration="1855000" />
+      <workItem from="1535314083382" duration="39000" />
+      <workItem from="1535412780067" duration="4380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7468000" />
+    <option name="totallyTimeSpent" value="12486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298122" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32629108" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3298122" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3298122" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993895" weight="0.3298122" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.3298122" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3298122" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -728,27 +938,24 @@
         <state relative-caret-position="-35" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/incrementalCompilation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/file1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/file2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/file3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -766,43 +973,168 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/incrementalCompilation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311719">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa100.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa49.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/foofaa65.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#14#103#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/file3.kt">
+    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/incrementalCompilation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="465">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/file2.kt">
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/bundle/main.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/node_modules_imported/kotlin/kotlin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="37904" column="23" selection-start-line="37904" selection-start-column="11" selection-end-line="37904" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/kotlin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="121" column="19" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="21" />
+        <state relative-caret-position="280">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="clean build" />
+    <option value="build" />
     <option value="build -i" />
     <option value="clean" />
     <option value="build -d" />
-    <option value="build" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>incrementalCompilation_main|incrementalCompilation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.61</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

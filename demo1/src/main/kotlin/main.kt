@@ -1,13 +1,12 @@
 
-
-inline fun tpof(o: Any) = js("typeof o").unsafeCast<String>()
+package foo
 
 private fun printType(o: Any, typeName: String) = println(
         "Kotlin $typeName -> " +
-         "JS ${tpof(o)} (${prototypeString(o)}), " +
+         "JS ${jsTypeOf(o)} (${prototypeString(o)}), " +
           "metadata ${o.asDynamic().constructor.`$metadata$`}")
 
-private inline fun prototypeString(o: Any) = js("Object.prototype.toString.call(o)").toString()
+private inline fun prototypeString(o: Any):String = js("Object.prototype.toString.call(o)")
 
 interface I
 
@@ -17,7 +16,8 @@ class B : A(), I
 
 fun main(args: Array<String>) {
     printType(Any(), "Any")
-    printType(B(), "Class")
+    printType(B(), "Class B")
+    printType(js("({})"), "dynamic")
     printType(true, "Boolean")
     printType(42, "Int")
     printType(.42, "Double")
@@ -27,5 +27,4 @@ fun main(args: Array<String>) {
     printType(arrayOf(42, 42), "Array")
     printType({}, "FunctionN<*>")
     printType(floatArrayOf(42f, 4.2f, 0.42f, 0.042f), "floatArray")
-    printType(js("({})"), "dynamic")
 }
