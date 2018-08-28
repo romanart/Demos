@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a51237-2591-444f-8452-8251ac018613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/modules/frontend-only_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/file1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/file2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/file3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/file4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/file5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -617,15 +604,16 @@
       <option name="presentableId" value="Default" />
       <updated>1535412810154</updated>
       <workItem from="1535412813860" duration="2250000" />
-      <workItem from="1535417023571" duration="493000" />
+      <workItem from="1535417023571" duration="1627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2743000" />
+    <option name="totallyTimeSpent" value="3877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

@@ -45,7 +45,7 @@ kotlinFrontend {
         mode = 'production'
     }
 
-    define "PRODUCTION", false
+    define "PRODUCTION", true
 
     define "X", false
 }

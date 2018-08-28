@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ccada5-8e6d-4b4b-82a9-aa923561a744" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/demo4_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo4_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/demo4_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo4_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradbageGen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gradbageGen/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -61,28 +59,32 @@
     <session id="2086718302">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="es6" value="194" />
           <entry key="js" value="1" />
-          <entry key="kt" value="200" />
+          <entry key="kt" value="201" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Kotlin" value="200" />
+          <entry key="Kotlin" value="201" />
           <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="es6" value="1" />
           <entry key="gradle" value="1" />
           <entry key="js" value="3" />
           <entry key="kt" value="4" />
@@ -93,18 +95,23 @@
           <entry key="Groovy" value="1" />
           <entry key="JavaScript" value="3" />
           <entry key="Kotlin" value="4" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5677656">
+    <splitter split-orientation="horizontal" split-proportion="0.45232815">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/build.gradle">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                </state>
+              </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
@@ -119,8 +126,17 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo4.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="172">
+                <state relative-caret-position="329">
                   <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="56">
+                  <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -128,12 +144,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
                 </state>
               </provider>
             </entry>
@@ -352,9 +368,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6138807128000" />
+        <entry key="$PROJECT_DIR$" value="6139588896000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3810309048" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1008350682" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2175712811" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2253496924" />
       </map>
@@ -500,6 +516,8 @@
       <list>
         <option value="$PROJECT_DIR$/build/classes/kotlin/main/demo4.js" />
         <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
       </list>
     </option>
   </component>
@@ -519,10 +537,34 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ECMAScript 6" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -628,17 +670,17 @@
       <workItem from="1534897618433" duration="437000" />
       <workItem from="1535313002313" duration="865000" />
       <workItem from="1535314082493" duration="2537000" />
+      <workItem from="1535483541962" duration="1384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4360000" />
+    <option name="totallyTimeSpent" value="5744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17399268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17399268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -677,19 +719,30 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
         </state>
       </provider>
     </entry>
