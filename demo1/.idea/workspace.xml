@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70788a61-78cd-41ef-89e1-4743554b5b8c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/modules/demo4_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/src/main/js/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/js/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gradbageGen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gradbageGen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/foofaa1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/src/main/kotlin/foofaa1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -63,91 +68,57 @@
     <session id="-1618708482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="9" />
-          <entry key="kt" value="206" />
-          <entry key="txt" value="5" />
+          <entry key="gradle" value="14" />
+          <entry key="js" value="2" />
+          <entry key="kt" value="332" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="9" />
-          <entry key="Kotlin" value="206" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Groovy" value="14" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Kotlin" value="332" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="3" />
-          <entry key="kt" value="3" />
+          <entry key="gradle" value="6" />
+          <entry key="js" value="38" />
+          <entry key="kt" value="37" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="3" />
-          <entry key="Kotlin" value="3" />
+          <entry key="Groovy" value="6" />
+          <entry key="JavaScript" value="38" />
+          <entry key="Kotlin" value="37" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.2991453">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.2.41/8e3c48f7505617a1e2bd4200e6b16846ab11be25/kotlin-stdlib-js-1.2.41-sources.jar!/kotlin/hacks.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="26" selection-start-line="26" selection-end-line="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/kotlin-build/version.txt">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo1.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build.gradle">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" selection-start-line="21" selection-end-line="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/node_modules/kotlin/kotlin.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="214605">
-                  <caret line="14307" column="40" selection-start-line="14307" selection-start-column="40" selection-end-line="14307" selection-end-column="40" />
+                <state relative-caret-position="684">
+                  <caret line="39" column="16" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -155,21 +126,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web/output.js">
+            <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo1.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="339">
-                  <caret line="35" column="14" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="14" />
+                <state relative-caret-position="580">
+                  <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -383,7 +345,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6138664785000" />
+        <entry key="$PROJECT_DIR$" value="6140093127000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2714523202" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2175712811" />
@@ -528,8 +490,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/web/output.js" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/build/classes/kotlin/main/demo1.js" />
         <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
       </list>
     </option>
@@ -545,10 +508,70 @@
       <path value="$PROJECT_DIR$/node_modules/kotlin/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="944" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -559,11 +582,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -614,13 +638,49 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
+    <configuration name="demo1 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1 [compileKotlin2Js]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileKotlin2Js" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1_main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="web/output.js" working-dir="$PROJECT_DIR$">
+    <configuration name="output.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/output.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="" />
       </envs>
@@ -628,7 +688,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="output.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="output.js" working-dir="$PROJECT_DIR$/web">
+    <configuration name="output.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="build/classes/kotlin/main/demo1.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="" />
       </envs>
@@ -645,15 +705,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.demo1 [build]" />
       <item itemvalue="Node.js.output.js" />
-      <item itemvalue="Node.js.demo1_main.js" />
+      <item itemvalue="Gradle.demo1 [clean]" />
+      <item itemvalue="Gradle.demo1 [compileKotlin2Js]" />
+      <item itemvalue="Gradle.demo1 [build]" />
+      <item itemvalue="Node.js.output.js (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.output.js" />
-        <item itemvalue="Node.js.demo1_main.js" />
+        <item itemvalue="Node.js.output.js (1)" />
         <item itemvalue="Gradle.demo1 [build]" />
+        <item itemvalue="Gradle.demo1 [compileKotlin2Js]" />
+        <item itemvalue="Gradle.demo1 [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -676,24 +740,32 @@
       <workItem from="1534897151792" duration="212000" />
       <workItem from="1535296748323" duration="3287000" />
       <workItem from="1535490059744" duration="430000" />
+      <workItem from="1535992862915" duration="4048000" />
+      <workItem from="1536177764445" duration="1206000" />
+      <workItem from="1536220166241" duration="390000" />
+      <workItem from="1536224578294" duration="156000" />
+      <workItem from="1536236439103" duration="616000" />
+      <workItem from="1536241093117" duration="920000" />
+      <workItem from="1536246001913" duration="866000" />
+      <workItem from="1536250428797" duration="3000" />
+      <workItem from="1536251701963" duration="1083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7994000" />
+    <option name="totallyTimeSpent" value="17282000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="944" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2735043" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2789988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24295774" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46666667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,6 +786,35 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Key Promoter X" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2789988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42666668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Reviews" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286385" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3286385" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298122" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="News Feed" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -725,48 +826,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/kotlin/kotlin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="14307" column="40" selection-start-line="14307" selection-start-column="40" selection-end-line="14307" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.2.41/8e3c48f7505617a1e2bd4200e6b16846ab11be25/kotlin-stdlib-js-1.2.41-sources.jar!/kotlin/hacks.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="348">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-build/version.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/output.js" />
+    <entry file="file://$PROJECT_DIR$/build/kotlin-build/version.txt" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/kotlin/kotlin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214605">
-          <caret line="14307" column="40" selection-start-line="14307" selection-start-column="40" selection-end-line="14307" selection-end-column="40" />
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="684">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/output.js">
+    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="580">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -774,6 +867,9 @@
   <component name="gradleExecuteTaskHistory">
     <option value="$PROJECT_DIR$" />
     <option value="build" />
+    <option value="clean" />
+    <option value="clean build" />
+    <option value="compileKotlin2Js" />
   </component>
   <component name="masterDetails">
     <states>

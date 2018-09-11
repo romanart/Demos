@@ -1,9 +1,15 @@
 
 
+
+
+
 @JsModule("./module.js")
 external fun foo(s: String): dynamic
 
-fun <T> type_of(o: T): String = js("typeof o")
+@JsName("MYMEGAFUNC")
+fun <T> type_of(o: T): String {
+    return js("jdjklfsdjkf")
+}
 
 fun main(args: Array<String>) {
     println(foo("Hello").message)
