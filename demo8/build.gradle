@@ -15,8 +15,8 @@ buildscript {
 apply plugin: 'com.moowork.node'
 apply plugin: 'kotlin2js'
 
-group 'KUG'
-version '1.0-SNAPSHOT'
+group 'GDG'
+version 'Siberia-2018'
 
 repositories {
     mavenCentral()

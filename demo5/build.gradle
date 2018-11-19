@@ -18,8 +18,8 @@ apply plugin: 'com.moowork.node'
 apply plugin: 'kotlin2js'
 apply plugin: 'kotlinx-serialization'
 
-group 'KUG'
-version '1.0-SNAPSHOT'
+group 'GDG'
+version 'Siberia-2018'
 
 repositories {
     mavenCentral()
@@ -30,7 +30,6 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-js"
     compile "org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.0.1"
-//    compile "org.jetbrains.kotlinx:kotlinx-serialization-runtime:0.9.0"
     compile "org.jetbrains.kotlinx:kotlinx-serialization-runtime-js:0.9.0"
     testCompile "org.jetbrains.kotlin:kotlin-test-js"
 }

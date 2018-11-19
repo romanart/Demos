@@ -12,8 +12,8 @@ buildscript {
     }
 }
 
-group = 'org.jetbrains.kotlin.example'
-version = '0.0.1-SNAPSHOT'
+group = 'GDG'
+version = 'Siberia-2018'
 
 apply plugin: 'kotlin2js'
 apply plugin: 'kotlin-dce-js'

@@ -2,59 +2,228 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ccada5-8e6d-4b4b-82a9-aa923561a744" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo2/src/main/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/modules/demo1_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/modules/demo1_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/modules/demo1_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/modules/demo1_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/modules/demo2_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo8/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo5/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo5/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo7/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo8/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo8/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/modules/incrementalCompilation_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../incrementalCompilation/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="../incrementalCompilation/build/node_modules/kotlin/" />
+    <ignored path="../incrementalCompilation/build/node_modules/kotlin-test/" />
+    <ignored path="../gradbageGen/.gradle/4.8/fileChanges/last-build.bin" />
+    <ignored path="../gradbageGen/.gradle/4.8/fileContent/fileContent.lock" />
+    <ignored path="../gradbageGen/.gradle/4.8/fileHashes/fileHashes.bin" />
+    <ignored path="../gradbageGen/.gradle/4.8/fileHashes/fileHashes.lock" />
+    <ignored path="../gradbageGen/.gradle/4.8/fileHashes/resourceHashesCache.bin" />
+    <ignored path="../gradbageGen/.gradle/4.8/taskHistory/taskHistory.bin" />
+    <ignored path="../gradbageGen/.gradle/4.8/taskHistory/taskHistory.lock" />
+    <ignored path="../gradbageGen/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <ignored path="../gradbageGen/.gradle/buildOutputCleanup/cache.properties" />
+    <ignored path="../gradbageGen/.gradle/buildOutputCleanup/outputFiles.bin" />
+    <ignored path="../gradbageGen/.gradle/vcsWorkingDirs/gc.properties" />
+    <ignored path="../gradbageGen/build/classes/kotlin/main/META-INF/gradbageGen.kotlin_module" />
+    <ignored path="../gradbageGen/build/classes/kotlin/main/MainKt.class" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/build-history.bin" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/data-container-format-version.txt" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/format-version.txt" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/gradle-format-version.txt" />
+    <ignored path="../gradbageGen/build/kotlin/compileKotlin/last-build.bin" />
+    <ignored path="../gradbageGen/build/kotlin/gradbageGen10SNAPSHOTjar-classes.txt" />
+    <ignored path="../gradbageGen/build/libs/gradbageGen-1.0-SNAPSHOT.jar" />
+    <ignored path="../gradbageGen/build/tmp/jar/MANIFEST.MF" />
+    <ignored path="../gradbageGen/out/production/classes/META-INF/gradbageGen_main.kotlin_module" />
+    <ignored path="../gradbageGen/out/production/classes/MainKt.class" />
+    <ignored path="../gradbageGen/output/foofaa0.kt" />
+    <ignored path="../gradbageGen/output/foofaa1.kt" />
+    <ignored path="../gradbageGen/output/foofaa10.kt" />
+    <ignored path="../gradbageGen/output/foofaa100.kt" />
+    <ignored path="../gradbageGen/output/foofaa11.kt" />
+    <ignored path="../gradbageGen/output/foofaa12.kt" />
+    <ignored path="../gradbageGen/output/foofaa13.kt" />
+    <ignored path="../gradbageGen/output/foofaa14.kt" />
+    <ignored path="../gradbageGen/output/foofaa15.kt" />
+    <ignored path="../gradbageGen/output/foofaa16.kt" />
+    <ignored path="../gradbageGen/output/foofaa17.kt" />
+    <ignored path="../gradbageGen/output/foofaa18.kt" />
+    <ignored path="../gradbageGen/output/foofaa19.kt" />
+    <ignored path="../gradbageGen/output/foofaa2.kt" />
+    <ignored path="../gradbageGen/output/foofaa20.kt" />
+    <ignored path="../gradbageGen/output/foofaa21.kt" />
+    <ignored path="../gradbageGen/output/foofaa22.kt" />
+    <ignored path="../gradbageGen/output/foofaa23.kt" />
+    <ignored path="../gradbageGen/output/foofaa24.kt" />
+    <ignored path="../gradbageGen/output/foofaa25.kt" />
+    <ignored path="../gradbageGen/output/foofaa26.kt" />
+    <ignored path="../gradbageGen/output/foofaa27.kt" />
+    <ignored path="../gradbageGen/output/foofaa28.kt" />
+    <ignored path="../gradbageGen/output/foofaa29.kt" />
+    <ignored path="../gradbageGen/output/foofaa3.kt" />
+    <ignored path="../gradbageGen/output/foofaa30.kt" />
+    <ignored path="../gradbageGen/output/foofaa31.kt" />
+    <ignored path="../gradbageGen/output/foofaa32.kt" />
+    <ignored path="../gradbageGen/output/foofaa33.kt" />
+    <ignored path="../gradbageGen/output/foofaa34.kt" />
+    <ignored path="../gradbageGen/output/foofaa35.kt" />
+    <ignored path="../gradbageGen/output/foofaa36.kt" />
+    <ignored path="../gradbageGen/output/foofaa37.kt" />
+    <ignored path="../gradbageGen/output/foofaa38.kt" />
+    <ignored path="../gradbageGen/output/foofaa39.kt" />
+    <ignored path="../gradbageGen/output/foofaa4.kt" />
+    <ignored path="../gradbageGen/output/foofaa40.kt" />
+    <ignored path="../gradbageGen/output/foofaa41.kt" />
+    <ignored path="../gradbageGen/output/foofaa42.kt" />
+    <ignored path="../gradbageGen/output/foofaa43.kt" />
+    <ignored path="../gradbageGen/output/foofaa44.kt" />
+    <ignored path="../gradbageGen/output/foofaa45.kt" />
+    <ignored path="../gradbageGen/output/foofaa46.kt" />
+    <ignored path="../gradbageGen/output/foofaa47.kt" />
+    <ignored path="../gradbageGen/output/foofaa48.kt" />
+    <ignored path="../gradbageGen/output/foofaa49.kt" />
+    <ignored path="../gradbageGen/output/foofaa5.kt" />
+    <ignored path="../gradbageGen/output/foofaa50.kt" />
+    <ignored path="../gradbageGen/output/foofaa51.kt" />
+    <ignored path="../gradbageGen/output/foofaa52.kt" />
+    <ignored path="../gradbageGen/output/foofaa53.kt" />
+    <ignored path="../gradbageGen/output/foofaa54.kt" />
+    <ignored path="../gradbageGen/output/foofaa55.kt" />
+    <ignored path="../gradbageGen/output/foofaa56.kt" />
+    <ignored path="../gradbageGen/output/foofaa57.kt" />
+    <ignored path="../gradbageGen/output/foofaa58.kt" />
+    <ignored path="../gradbageGen/output/foofaa59.kt" />
+    <ignored path="../gradbageGen/output/foofaa6.kt" />
+    <ignored path="../gradbageGen/output/foofaa60.kt" />
+    <ignored path="../gradbageGen/output/foofaa61.kt" />
+    <ignored path="../gradbageGen/output/foofaa62.kt" />
+    <ignored path="../gradbageGen/output/foofaa63.kt" />
+    <ignored path="../gradbageGen/output/foofaa64.kt" />
+    <ignored path="../gradbageGen/output/foofaa65.kt" />
+    <ignored path="../gradbageGen/output/foofaa66.kt" />
+    <ignored path="../gradbageGen/output/foofaa67.kt" />
+    <ignored path="../gradbageGen/output/foofaa68.kt" />
+    <ignored path="../gradbageGen/output/foofaa69.kt" />
+    <ignored path="../gradbageGen/output/foofaa7.kt" />
+    <ignored path="../gradbageGen/output/foofaa70.kt" />
+    <ignored path="../gradbageGen/output/foofaa71.kt" />
+    <ignored path="../gradbageGen/output/foofaa72.kt" />
+    <ignored path="../gradbageGen/output/foofaa73.kt" />
+    <ignored path="../gradbageGen/output/foofaa74.kt" />
+    <ignored path="../gradbageGen/output/foofaa75.kt" />
+    <ignored path="../gradbageGen/output/foofaa76.kt" />
+    <ignored path="../gradbageGen/output/foofaa77.kt" />
+    <ignored path="../gradbageGen/output/foofaa78.kt" />
+    <ignored path="../gradbageGen/output/foofaa79.kt" />
+    <ignored path="../gradbageGen/output/foofaa8.kt" />
+    <ignored path="../gradbageGen/output/foofaa80.kt" />
+    <ignored path="../gradbageGen/output/foofaa81.kt" />
+    <ignored path="../gradbageGen/output/foofaa82.kt" />
+    <ignored path="../gradbageGen/output/foofaa83.kt" />
+    <ignored path="../gradbageGen/output/foofaa84.kt" />
+    <ignored path="../gradbageGen/output/foofaa85.kt" />
+    <ignored path="../gradbageGen/output/foofaa86.kt" />
+    <ignored path="../gradbageGen/output/foofaa87.kt" />
+    <ignored path="../gradbageGen/output/foofaa88.kt" />
+    <ignored path="../gradbageGen/output/foofaa89.kt" />
+    <ignored path="../gradbageGen/output/foofaa9.kt" />
+    <ignored path="../gradbageGen/output/foofaa90.kt" />
+    <ignored path="../gradbageGen/output/foofaa91.kt" />
+    <ignored path="../gradbageGen/output/foofaa92.kt" />
+    <ignored path="../gradbageGen/output/foofaa93.kt" />
+    <ignored path="../gradbageGen/output/foofaa94.kt" />
+    <ignored path="../gradbageGen/output/foofaa95.kt" />
+    <ignored path="../gradbageGen/output/foofaa96.kt" />
+    <ignored path="../gradbageGen/output/foofaa97.kt" />
+    <ignored path="../gradbageGen/output/foofaa98.kt" />
+    <ignored path="../gradbageGen/output/foofaa99.kt" />
+    <ignored path="../gradbageGen/output/main.kt" />
+    <ignored path="../incrementalCompilation/build/" />
+    <ignored path="../demo8/build/" />
+    <ignored path="../demo7/build/node_modules/kotlin/" />
+    <ignored path="../demo7/build/node_modules/kotlin-experimental/" />
+    <ignored path="../demo7/build/node_modules/kotlin-test/" />
+    <ignored path="../demo7/build/" />
+    <ignored path="../demo6/" />
+    <ignored path="../demo5/build/" />
+    <ignored path="../demo3/build/" />
+    <ignored path="../demo3/node_modules/" />
+    <ignored path="../demo2/build/" />
+    <ignored path="../demo1/node_modules/" />
+    <ignored path="../demo1/build/classes/kotlin/main/demo1/foo/foo.kjsm" />
+    <ignored path="../demo1/build/classes/kotlin/main/demo1.js" />
+    <ignored path="../demo1/build/classes/kotlin/main/demo1.js.map" />
+    <ignored path="../demo1/build/classes/kotlin/main/demo1.meta.js" />
+    <ignored path="../demo1/build/kotlin/demo110SNAPSHOTjar-classes.txt" />
+    <ignored path="../demo1/build/kotlin-build/version.txt" />
+    <ignored path="../demo1/build/libs/demo1-1.0-SNAPSHOT.jar" />
+    <ignored path="../demo1/build/node_modules/demo1/foo/foo.kjsm" />
+    <ignored path="../demo1/build/node_modules/demo1.js" />
+    <ignored path="../demo1/build/node_modules/demo1.js.map" />
+    <ignored path="../demo1/build/node_modules/demo1.meta.js" />
+    <ignored path="../demo1/build/node_modules/kotlin.js" />
+    <ignored path="../demo1/build/node_modules/kotlin.meta.js" />
+    <ignored path="../demo1/build/tmp/jar/MANIFEST.MF" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,45 +263,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+            <state relative-caret-position="465">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
+                <element signature="e#0#600#0" expanded="true" />
                 <element signature="e#602#833#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/internal/Synchronized.common.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.6.8/76c5df8dfb8060af0b6638118de487a8fc5f04fc/kotlinx-html-js-0.6.8-sources.jar!/generated/gen-event-attrs-js.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.10/882ffa2993889b4e69de6c2634fddb9e46a5a6db/kotlin-stdlib-js-1.3.10-sources.jar!/org.w3c/org.w3c.dom.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -169,8 +307,16 @@
         <option value="$PROJECT_DIR$/build/webpack.config.js" />
         <option value="$PROJECT_DIR$/webpack.config.d/webpack.config.js" />
         <option value="$PROJECT_DIR$/build/webpack-dev-server-run.js" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo1/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo2/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo3/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo6/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo7/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo8/build.gradle" />
+        <option value="$PROJECT_DIR$/../incrementalCompilation/build.gradle" />
+        <option value="$PROJECT_DIR$/../demo5/build.gradle" />
       </list>
     </option>
   </component>
@@ -196,6 +342,12 @@
               <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
@@ -234,6 +386,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="demo4" type="b2602c69:ProjectViewProjectNode" />
@@ -468,17 +626,26 @@
       <workItem from="1542573128182" duration="3579000" />
       <workItem from="1542578030779" duration="3000" />
       <workItem from="1542578180573" duration="2000" />
-      <workItem from="1542578231330" duration="9829000" />
+      <workItem from="1542578231330" duration="10932000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix demos for GDG DevFest Siberia">
+      <created>1542597090727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542597090728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21731000" />
+    <option name="totallyTimeSpent" value="22834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -493,7 +660,7 @@
       <window_info anchor="bottom" id="Reviews" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32822084" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32924336" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32822084" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="13" />
@@ -553,94 +720,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fix demos for GDG DevFest Siberia" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../demo3/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/output.meta.js" />
     <entry file="file://$PROJECT_DIR$/web/output.js" />
-    <entry file="file://$PROJECT_DIR$/../demo3/src/main/kotlin/main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../demo3/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/node_modules/kotlinx-coroutines-core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300855">
-          <caret line="20057" column="21" selection-start-line="20057" selection-start-column="11" selection-end-line="20057" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/web/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/webpack.config.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/web/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/git/kotlin/js/js.translator/testData/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/node_modules/demo4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/kotlin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="1873" column="38" selection-start-line="1873" selection-start-column="4" selection-end-line="1873" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/kotlinx-coroutines-core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="6050" column="3" lean-forward="true" selection-start-line="6050" selection-start-column="3" selection-end-line="6050" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/CancellableContinuation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="134" column="35" selection-start-line="134" selection-start-column="35" selection-end-line="134" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.d/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -652,23 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="243" selection-start-line="243" selection-end-line="243" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/web/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/kotlin/main/demo4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -708,101 +775,12 @@
     <entry file="file://$PROJECT_DIR$/build/logs/webpack-dev-server.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.10/882ffa2993889b4e69de6c2634fddb9e46a5a6db/kotlin-stdlib-js-1.3.10-sources.jar!/org.w3c/org.w3c.dom.css.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="399" column="27" lean-forward="true" selection-start-line="399" selection-start-column="27" selection-end-line="399" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.10/27e50db5c984a3ee710c5556c877728a4e735971/kotlin-stdlib-common-1.3.10-sources.jar!/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="2267" column="43" selection-start-line="2267" selection-start-column="43" selection-end-line="2267" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.10/882ffa2993889b4e69de6c2634fddb9e46a5a6db/kotlin-stdlib-js-1.3.10-sources.jar!/org.w3c/org.w3c.dom.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.0.1/27387b094de2293d4140933e443cf509020e0af5/kotlinx-coroutines-core-js-1.0.1-sources.jar!/Window.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/main.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/kotlin-js-min/main/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.6.8/76c5df8dfb8060af0b6638118de487a8fc5f04fc/kotlinx-html-js-0.6.8-sources.jar!/generated/gen-event-attrs-js.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/internal/Synchronized.common.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/JobSupport.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11139">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Job.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="348" column="65" lean-forward="true" selection-start-line="348" selection-start-column="65" selection-end-line="348" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/CoroutineDispatcher.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Dispatched.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="176" column="10" selection-start-line="176" selection-start-column="10" selection-end-line="176" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Yield.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
+            <element signature="e#0#600#0" expanded="true" />
             <element signature="e#602#833#0" expanded="true" />
           </folding>
         </state>

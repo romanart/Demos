@@ -19,8 +19,8 @@ apply plugin: 'kotlin2js'
 apply plugin: 'kotlin-dce-js'
 apply plugin: 'org.jetbrains.kotlin.frontend'
 
-group 'KUG'
-version '1.0-SNAPSHOT'
+group 'GDG'
+version 'Siberia-2018'
 
 repositories {
     mavenCentral()

@@ -13,8 +13,8 @@ buildscript {
 
 apply plugin: 'com.moowork.node'
 
-group 'KUG Minsk'
-version '1.0-SNAPSHOT'
+group 'GDG'
+version 'Siberia-2018'
 
 apply plugin: 'kotlin2js'
 
