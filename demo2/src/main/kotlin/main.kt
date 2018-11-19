@@ -1,16 +1,17 @@
 
 
-
-
-
-@JsModule("./module.js")
+@JsModule("module.js")
 external fun foo(s: String): dynamic
 
-@JsName("MYMEGAFUNC")
 fun <T> type_of(o: T): String {
-    return js("jdjklfsdjkf")
+    return js("typeof o")
+}
+
+@JsName("kotlinHello")
+fun helloKotlin(name: String) {
+    println("Hello $name from Kotlin \uD83D\uDC4B")
 }
 
 fun main(args: Array<String>) {
-    println(foo("Hello").message)
+    println(foo("Hello").msg)
 }

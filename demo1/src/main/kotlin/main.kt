@@ -1,18 +1,14 @@
 
 package foo
 
-
-
-
-
-
-
-
-
 private fun printType(o: Any, typeName: String) = println(
         "Kotlin $typeName -> " +
-         "JS typeof: ${jsTypeOf(o)} (${prototypeString(o)}), " +
-          "metadata ${o.asDynamic().constructor.`$metadata$`}")
+         "JS typeof: ${jsTypeOf(o)} (${prototypeString(o)}), " + run {
+            val metadata = o.asDynamic().constructor.`$metadata$`
+            if (metadata != undefined) {
+                ", metadata $metadata"
+            } else ", metadata <empty>"
+        })
 
 private fun prototypeString(o: Any):String
         = js("Object.prototype.toString.call(o)")

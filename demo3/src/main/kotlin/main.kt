@@ -1,33 +1,29 @@
-import kotlinx.coroutines.experimental.launch
-import kotlin.coroutines.experimental.suspendCoroutine
+import kotlin.coroutines.*
 
-private external fun setTimeout(handler: dynamic, timeout: Int = definedExternally): Int
-
-private suspend fun delay(t: Int) {
-    if (t <= 0) return
-    suspendCoroutine<Unit> {
-        setTimeout({
-            it.resume(Unit)
-        }, t)
+val mySequence = sequence {
+    println("one")
+    yield(1)
+    for (s in mySequence2) {
+        yield(s)
     }
+    println("two")
+    yield(2)
+    println("three")
+    yield(3)
 }
 
-suspend fun asyncTask(name: String, timeout: Int) {
-    println("BEFORE DELAY $name, PAUSE FOR $timeout")
-    delay(timeout)
-    println("AFTER DELAY $name")
+val mySequence2 = sequence {
+    println("oneone")
+    yield(11)
+    println("twotwo")
+    yield(22)
+    println("threethree")
+    yield(33)
 }
 
 fun main(args: Array<String>) {
-    launch {
-        asyncTask("FOO", 3000)
+    for (i in mySequence) {
+        println("SEQ: $i")
     }
-
-    launch {
-        asyncTask("BAR", 2000)
-    }
-
-    launch {
-        asyncTask("BAZ", 1000)
-    }
+    println("check")
 }
