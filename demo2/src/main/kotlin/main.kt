@@ -1,3 +1,4 @@
+@file:Suppress("UnsafeCastFromDynamic")
 
 
 @JsModule("module.js")
@@ -7,7 +8,7 @@ fun <T> type_of(o: T): String {
     return js("typeof o")
 }
 
-@JsName("kotlinHello")
+@JsName("helloKotlin")
 fun helloKotlin(name: String) {
     println("Hello $name from Kotlin \uD83D\uDC4B")
 }

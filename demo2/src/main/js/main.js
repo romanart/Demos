@@ -1,7 +1,7 @@
 
 
 function main(kotlinModule) {
-    kotlinModule.kotlinHello("DevFest")
+    kotlinModule.helloKotlin("DevFest")
 }
 
 main(require('demo2'));

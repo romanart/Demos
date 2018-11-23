@@ -1,13 +1,12 @@
+@file:Suppress("UnsafeCastFromDynamic")
 
 package foo
 
 private fun printType(o: Any, typeName: String) = println(
         "Kotlin $typeName -> " +
-         "JS typeof: ${jsTypeOf(o)} (${prototypeString(o)}), " + run {
+         "JS typeof: ${jsTypeOf(o)} (${prototypeString(o)}), metadata " + run {
             val metadata = o.asDynamic().constructor.`$metadata$`
-            if (metadata != undefined) {
-                ", metadata $metadata"
-            } else ", metadata <empty>"
+            if (metadata != undefined) "$metadata" else "<empty>"
         })
 
 private fun prototypeString(o: Any):String

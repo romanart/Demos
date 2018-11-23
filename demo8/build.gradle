@@ -14,6 +14,7 @@ buildscript {
 
 apply plugin: 'com.moowork.node'
 apply plugin: 'kotlin2js'
+apply plugin: 'kotlin-dce-js'
 
 group 'GDG'
 version 'Siberia-2018'
@@ -25,7 +26,6 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-js"
-    compile "org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.0.1"
     testCompile "org.jetbrains.kotlin:kotlin-test-js"
 }
 

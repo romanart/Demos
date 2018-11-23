@@ -57,22 +57,37 @@ private fun random() = kotlin.js.Math.random()
 class Application : CoroutineScope {
     private val body get() = document.body!!
     private val scene get() = document.getElementById("scene") as HTMLElement
+    private val counter get() = document.getElementById("counter") as HTMLElement
+
     private val sw = 800.0
     private val sh = 600.0
     private var animationIndex = 0
+    private var elementCounter = 0
+        set(value) {
+            field = value
+            counter.textContent = "$field"
+        }
+
     private var job = Job()
     override val coroutineContext: CoroutineContext
         get() = job
 
     fun start() {
         body.append.div("content") {
-            h1 {
-                +"Kotlin Coroutines JS Example"
+            div {
+                h1 {
+                    +"Kotlin Coroutines JS Example"
+
+                }
+                h1 {
+                    id = "counter"
+                    text(0)
+                }
             }
             div {
                 button {
                     +"Circle"
-                    onClickFunction = { onCircle() }
+                    onClickFunction = { repeat(50) { onCircle() } }
                 }
                 button {
                     +"Clear"
@@ -90,6 +105,7 @@ class Application : CoroutineScope {
         val elem = scene.append.div(cls)
         elem.setSize(size, size)
         elem.setColor(random().toBits().toInt(), random().toBits().toInt(), random().toBits().toInt())
+        ++elementCounter
         val job = launch {
             block(elem)
         }
@@ -132,6 +148,8 @@ class Application : CoroutineScope {
     }
 
     private fun onClear() {
+        elementCounter = 0
+
         job.cancel()
         job = Job()
     }
