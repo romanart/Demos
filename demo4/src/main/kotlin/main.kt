@@ -59,8 +59,8 @@ class Application : CoroutineScope {
     private val scene get() = document.getElementById("scene") as HTMLElement
     private val counter get() = document.getElementById("counter") as HTMLElement
 
-    private val sw = 800.0
-    private val sh = 600.0
+    private val sw = 1500.0
+    private val sh = 650.0
     private var animationIndex = 0
     private var elementCounter = 0
         set(value) {
@@ -87,8 +87,14 @@ class Application : CoroutineScope {
             div {
                 button {
                     +"Circle"
-                    onClickFunction = { repeat(50) { onCircle() } }
+                    onClickFunction = { onCircle() }
                 }
+
+                button {
+                    +"Circle x1000"
+                    onClickFunction = { repeat(1000) { onCircle() } }
+                }
+
                 button {
                     +"Clear"
                     onClickFunction = { onClear() }

@@ -2,26 +2,24 @@ import kotlinx.serialization.*
 import kotlinx.serialization.json.JSON
 
 @Serializable
-data class DataSimple(val i: Int, val a: List<String>)
+data class DataSimple(val i: Int, val s: String)
 
 @Serializable
 data class DataComplex(val list: List<DataSimple>, val map: Map<String, Int>)
 
 fun main(args: Array<String>) {
 
-    val dataListIn = DataComplex(listOf(DataSimple(1, listOf("data1")),
-            DataSimple(2, listOf("data2")),
-            DataSimple(3, listOf("data3"))),
-            (10..20).associate { it.toString(16) to it })
+    val dataListIn = DataComplex(
+            listOf(DataSimple(1, "data1"), DataSimple(2, "data2"), DataSimple(3, "data3")),
+            (10..20).associate { it.toString(16) to it }
+    )
 
     println("Input data: $dataListIn")
 
-    val serializer = DataComplex.serializer()
+    val json = JSON.stringify(DataComplex.serializer(), dataListIn)
+    println("\nJSON: $json\n")
 
-    val json = JSON.stringify(serializer, dataListIn)
-    println("\nJSON:$json\n")
-
-    val dataListOut = JSON.parse(serializer, json)
+    val dataListOut = JSON.parse(DataComplex.serializer(), json)
     println("Deserialized: $dataListOut")
 
     require(dataListIn == dataListOut)

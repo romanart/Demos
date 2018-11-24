@@ -1,6 +1,5 @@
 @file:Suppress("UnsafeCastFromDynamic")
 
-
 @JsModule("module.js")
 external fun foo(s: String): dynamic
 

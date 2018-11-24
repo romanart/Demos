@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5518fa58-3ffd-464d-a557-e104f65669bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../demo1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo5/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo5/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo8/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../demo8/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -15851,7 +15841,7 @@
       <workItem from="1542465752486" duration="446000" />
       <workItem from="1542487069642" duration="83000" />
       <workItem from="1542571294054" duration="457000" />
-      <workItem from="1542581631657" duration="1224000" />
+      <workItem from="1542581631657" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="wip">
       <created>1535417711052</created>
@@ -15871,11 +15861,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32212000" />
+    <option name="totallyTimeSpent" value="32224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29095355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

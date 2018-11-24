@@ -3,27 +3,20 @@
 package foo
 
 private fun printType(o: Any, typeName: String) = println(
-        "Kotlin $typeName -> " +
-         "JS typeof: ${jsTypeOf(o)} (${prototypeString(o)}), metadata " + run {
-            val metadata = o.asDynamic().constructor.`$metadata$`
-            if (metadata != undefined) "$metadata" else "<empty>"
-        })
+        "Kotlin $typeName -> JS typeof: ${jsTypeOf(o)} (${prototypeString(o)})")
 
 private fun prototypeString(o: Any):String
         = js("Object.prototype.toString.call(o)")
 
-private fun anonJSObject(): Any = js("({})")
-
 interface I
 
-open class A
+open class A : I
 
-class B : A(), I
+class B : A()
 
 fun main(args: Array<String>) {
     printType(Any(), "Any")
     printType(B(), "Class B")
-    printType(anonJSObject(), "JS anon object")
     printType(true, "Boolean")
     printType("S", "String")
     printType(42, "Int")
